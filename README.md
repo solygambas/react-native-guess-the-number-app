@@ -1,4 +1,4 @@
-# Guess the number
+# Guess the number app
 
 A game to understand components, styling and layout in React Native:
 - guessing-game logic and random number generation
